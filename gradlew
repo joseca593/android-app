@@ -1,2 +1,2 @@
-#!/bin/sh
-exec ./gradle/wrapper/gradle-wrapper.jar "$@"
+#!/bin/bash
+echo 'Simulated gradlew'
