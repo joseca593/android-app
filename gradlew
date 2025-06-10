@@ -1,2 +1,2 @@
-#!/bin/bash
-./gradle/wrapper/gradlew "$@"
+#!/bin/sh
+exec ./gradle/wrapper/gradle-wrapper.jar "$@"

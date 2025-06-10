@@ -1,2 +1,2 @@
 @echo off
-.\gradle\wrapper\gradlew.bat %*
+java -jar gradle\wrapper\gradle-wrapper.jar %*
